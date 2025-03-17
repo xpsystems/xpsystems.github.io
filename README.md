@@ -1,2 +1,2 @@
 # xpsystems.github.io
-http://github.com/xpsystems/csslib/master/index.html
+http://raw.github.com/xpsystems/csslib/master/index.html
